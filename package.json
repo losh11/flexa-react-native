@@ -1,6 +1,6 @@
 {
-  "name": "@flexa/flexa-react-native",
-  "version": "1.0.8",
+  "name": "@losh11/flexa-react-native",
+  "version": "1.0.9",
   "description": "Flexa Components",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -35,11 +35,11 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/flexa/flexa-react-native",
+  "repository": "https://github.com/losh11/flexa-react-native",
   "author": "Flexa <support@flexa.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flexa/flexa-react-native/issues"
+    "url": "https://github.com/losh11/flexa-react-native/issues"
   },
   "homepage": "https://flexa.co/docs",
   "publishConfig": {
