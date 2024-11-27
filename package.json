@@ -35,7 +35,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/losh11/flexa-react-native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losh11/flexa-react-native.git"
+  },
   "author": "Flexa <support@flexa.co>",
   "license": "MIT",
   "bugs": {
